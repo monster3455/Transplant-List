@@ -1,0 +1,11 @@
+﻿DELETE FROM PatientList;
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Brian', 'Cook', 1);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Erwin', 'Olivia', 2);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Ciera', 'Genevie', 3);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Marni', 'Ronny', 4);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Lucienne', 'Nicolette', 5);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Launa', 'Karrie', 6);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Modesta', 'Jadwiga', 7);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Modesta', 'Royal', 8);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Latoya', 'Hunter', 9);
+INSERT INTO PatientList(FirstName, LastName, ID) VALUES('Shanita', 'Kelsie', 10);
