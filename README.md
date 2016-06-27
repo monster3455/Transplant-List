@@ -1,2 +1,2 @@
 # Transplant-List
-Beginning of a organs transplant list taking in patient and saving to database, and allowing viewing and modifications to data
+Created a organs transplant list taking in patient and saving to SQL database. The program allowed Adding, Modifying, Viewing and Deleting of the patients.
